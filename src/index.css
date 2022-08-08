@@ -1,0 +1,15 @@
+.container-fluid{
+  background-color: rgb(81, 192, 230);
+}
+.header-text{
+  color: white;
+  text-align: center;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+  padding: 5px;
+}
+.norecord{
+  color: red;
+  text-align: center;
+  font-weight: bolder;
+}

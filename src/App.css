@@ -1,0 +1,37 @@
+.search-and-add{
+  padding: 10px;
+  /* margin-top: -5px; */
+  background-color: rgb(184, 214, 248);
+}
+.container-fluid{
+  margin-bottom: -10px;
+}
+.top-header{
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+.contact-title{
+  text-align: center;
+}
+.contacts{
+  list-style-type: none;
+  border-radius: 15px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.contact-name{
+  padding-left: 15px;
+}
+.contactNumber{
+  padding-left: 20px;
+  margin-top: -18px;
+}
+.contacts:hover,.contact-name:hover,.contactNumber:hover{
+  color: blue;
+  cursor: pointer;
+}
+.contact-inner-div{
+  display: flex;
+}
+.delete-button{
+  float: right;
+  margin-top: -2.5%;
+}
